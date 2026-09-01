@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gitter.im/dnscrypt-operators/Lobby)
+lalitasuthimoon9[![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gitter.im/dnscrypt-operators/Lobby)
 [![DNSCrypt](https://raw.github.com/jedisct1/dnscrypt-server-docker/master/dnscrypt-small.png)](https://dnscrypt.info)
 
 # DNSCrypt server Docker image
