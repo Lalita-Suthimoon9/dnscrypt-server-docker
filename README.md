@@ -2,7 +2,7 @@ lalitasuthimoon9[![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gi
 [![DNSCrypt](https://raw.github.com/jedisct1/dnscrypt-server-docker/master/dnscrypt-small.png)](https://dnscrypt.info)
 
 # DNSCrypt server Docker image
-
+Lalita-suthimoon9 
 Run your own caching, non-censoring, non-logging, DNSSEC-capable,
 [DNSCrypt](https://dnscrypt.info)-enabled DNS resolver virtually anywhere!
 
